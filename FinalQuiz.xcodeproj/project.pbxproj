@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					D3498C641E79EFA900B8FAB2 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = NK9LQSBXDN;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,7 +259,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NK9LQSBXDN;
 				INFOPLIST_FILE = FinalQuiz/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.makeschool.FinalQuiz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -270,7 +273,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NK9LQSBXDN;
 				INFOPLIST_FILE = FinalQuiz/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.makeschool.FinalQuiz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -297,6 +302,7 @@
 				D3498C791E79EFA900B8FAB2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

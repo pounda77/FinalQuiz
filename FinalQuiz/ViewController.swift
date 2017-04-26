@@ -38,7 +38,7 @@ class ViewController: UIViewController {
         
         let question: String = questions[currentQuestionIndex]
         questionLabel.text = question
-        answerLabel.text = "???"
+        answerLabel.text = "Who knows?"
     }
     
     
